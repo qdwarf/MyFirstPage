@@ -1,7 +1,7 @@
 # MyFirstPage
-my first githup repository
+start
 
-# 내 소개
+# My Profile
   * Name : Oh Hye Rin
   * Age : 21
   * Email : ohyelin05@gmail.com
